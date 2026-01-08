@@ -1,0 +1,21 @@
+
+import os
+from turtle import clone
+cpu_num = os.cpu_count()
+print(f"Meu computador tem {cpu_num} núcleos de CPU") 
+
+conda create --name meu_ambiente--
+conda install -c plotly plotly
+conda install --name myenv scipy=0.15.0
+conda create --name myenv python=3.9
+env create --name myenv --file requirements.txt
+
+ dnf install git
+    sudo dnf install git
+    sudo apt-get install git
+pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
+pip install plotly
+--file requirements.txt
+git --version
+git clone
+git version 2.36.0
